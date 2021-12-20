@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tCEGABG4WAWWmLJaglpvzVJTwo+ovBCemy68wMRoqjw=",
+  "Source": "StockMarketCharter.ReadExcelAPI",
+  "BasePath": "_content/StockMarketCharter.ReadExcelAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

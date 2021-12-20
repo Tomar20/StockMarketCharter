@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XVrdQ4CW9sdjq9dk+tfuBabtSqSRHKJ49SGqYzkVQNA=",
+  "Source": "StockMarketCharter.Gateway",
+  "BasePath": "_content/StockMarketCharter.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
